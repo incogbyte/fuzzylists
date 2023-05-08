@@ -1,0 +1,1 @@
+* [https://github.com/Xyntax/waf-bypass/blob/master/payload/sql.txt](https://github.com/Xyntax/waf-bypass/blob/master/payload/sql.txt) -> SQLI
