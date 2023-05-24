@@ -16,3 +16,4 @@ clientaccesspolicy.xml
 admin
 administrator
 dashboard
+.well-known/jwks.json
