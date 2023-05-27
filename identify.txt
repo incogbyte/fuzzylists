@@ -17,3 +17,5 @@ admin
 administrator
 dashboard
 .well-known/jwks.json
+jwks.json
+.jwks.json
